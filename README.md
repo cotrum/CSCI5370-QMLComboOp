@@ -1,2 +1,2 @@
-# CSCI5370-HQCT
+# QML ComboOpt: CUHK CSCI-5370
 QML for Solving Combinatorial Optimization Problems
